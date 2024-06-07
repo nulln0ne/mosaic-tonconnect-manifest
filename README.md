@@ -1,0 +1,1 @@
+# mosaic-tonconnect-manifest
